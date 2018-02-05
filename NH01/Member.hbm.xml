@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping namespace="NH01" xmlns="urn:nhibernate-mapping-2.2" assembly="NH01">
+  <class name="Member" table="Member" schema="dbo">
+    <id name="Id" type="Int32">
+      <column name="Id" not-null="true" precision="10" scale="0" sql-type="INT" />
+      <generator class="identity" />
+    </id>
+    <property name="Name" type="String">
+      <column name="Name" not-null="false" sql-type="NVARCHAR(MAX)" />
+    </property>
+    <property name="Password" type="String">
+      <column name="Password" not-null="false" sql-type="NVARCHAR(MAX)" />
+    </property>
+    <property name="CreateTime" type="DateTime">
+      <column name="CreateTime" not-null="true" sql-type="DATETIME" />
+    </property>
+    <property name="Del" type="Boolean">
+      <column name="Del" not-null="true" sql-type="BIT" />
+    </property>
+    <property name="Mobile" type="String">
+      <column name="Mobile" not-null="false" sql-type="NVARCHAR(MAX)" />
+    </property>
+    <property name="Email" type="String">
+      <column name="Email" not-null="false" sql-type="NVARCHAR(MAX)" />
+    </property>
+    <property name="RealName" type="String">
+      <column name="RealName" not-null="false" sql-type="NVARCHAR(MAX)" />
+    </property>
+    <property name="IDCard" type="String">
+      <column name="IDCard" not-null="false" sql-type="NVARCHAR(MAX)" />
+    </property>
+  </class>
+</hibernate-mapping>

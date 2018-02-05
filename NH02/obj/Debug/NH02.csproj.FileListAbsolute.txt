@@ -1,0 +1,10 @@
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\NH02.exe
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\NH02.pdb
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\Iesi.Collections.dll
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\NHibernate.dll
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\Iesi.Collections.xml
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\NHibernate.xml
+E:\SourceCode\Work\NHSln\NH02\obj\Debug\NH02.exe
+E:\SourceCode\Work\NHSln\NH02\obj\Debug\NH02.pdb
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\hibernate.cfg.xml
+E:\SourceCode\Work\NHSln\NH02\bin\Debug\NH02.exe.config

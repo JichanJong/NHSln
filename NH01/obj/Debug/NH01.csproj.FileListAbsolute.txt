@@ -1,0 +1,10 @@
+E:\SourceCode\Work\NHSln\NH01\bin\Debug\NH01.exe
+E:\SourceCode\Work\NHSln\NH01\bin\Debug\NH01.pdb
+E:\SourceCode\Work\NHSln\NH01\bin\Debug\Iesi.Collections.dll
+E:\SourceCode\Work\NHSln\NH01\bin\Debug\NHibernate.dll
+E:\SourceCode\Work\NHSln\NH01\bin\Debug\Iesi.Collections.xml
+E:\SourceCode\Work\NHSln\NH01\bin\Debug\NHibernate.xml
+E:\SourceCode\Work\NHSln\NH01\obj\Debug\NH01.csprojResolveAssemblyReference.cache
+E:\SourceCode\Work\NHSln\NH01\obj\Debug\NH01.exe
+E:\SourceCode\Work\NHSln\NH01\obj\Debug\NH01.pdb
+E:\SourceCode\Work\NHSln\NH01\bin\Debug\hibernate.cfg.xml
